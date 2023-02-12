@@ -1,0 +1,10 @@
+The four main principle of OOPs are: - 
+1. Encapsulation
+2. Inheritance
+3. Abstraction
+4. Polymorphism
+
+1. Encapsulation - Encapsulation keeps state private so that we can better enforce business rules, protect model invariants, and develop a single source of truth for related data and logic.
+2. Inheritance - Inheritance is about code reuse, not hierarchies.
+3. Abstraction - Abstraction lets us selectively focus on the high-level and abstract way the low-level  details.
+4. Polymorphism - Polymorphism provides the ability for us to design for dynamic runtime behavior, easy extensibility, and substitutability.
